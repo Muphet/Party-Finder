@@ -2,7 +2,7 @@
 
 ## Suggestions and bugs
 
-Please create an issue and describe with as much details possible what is it that you want to suggest or are having troubles with. Please note that i am a single developer working on this project so issues might take a while to be addressed.
+Create an issue and describe with as much details possible what is it that you want to suggest or are having troubles with. Please note that i am a single developer working on this project so issues might take a while to be addressed.
 
 ## Communication Channels
 
