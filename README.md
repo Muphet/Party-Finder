@@ -2,7 +2,7 @@
 
 ## 💡 Suggestions and bugs
 
-Create an issue and describe with as much details possible what is it that you want to suggest or are having troubles with. 
+Create an issue and describe with as much details as possible what is it that you want to suggest or are having trouble with.
 
 ## 💬 Communication Channels
 
