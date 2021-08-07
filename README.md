@@ -1,12 +1,12 @@
-# Party Finder Public Repository
+# 🎉 Party Finder Public Repository
 
-## Suggestions and bugs
+## 💡 Suggestions and bugs
 
-Create an issue and describe with as much details possible what is it that you want to suggest or are having troubles with. Please note that i am a single developer working on this project so issues might take a while to be addressed.
+Create an issue and describe with as much details possible what is it that you want to suggest or are having troubles with. 
 
-## Communication Channels
+## 💬 Communication Channels
 
-Party Finder has an official Twitter account and discord server. You can also contact me through there.
+<iframe src="https://canary.discord.com/widget?id=851099370384130099&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## Donations
 
