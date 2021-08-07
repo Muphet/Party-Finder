@@ -6,4 +6,4 @@ Create an issue and describe with as much details possible what is it that you w
 
 ## 💬 Communication Channels
 
-For now, the discord server is the main communication channel for Party Finder related matters: https://discord.gg/kC67JwCv94
+For now, [discord server](https://discord.gg/kC67JwCv94) is the main communication channel for Party Finder related matters.
