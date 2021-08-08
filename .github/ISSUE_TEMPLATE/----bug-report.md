@@ -2,7 +2,7 @@
 name: " \U0001F41E Bug Report"
 about: Report something that isn't working as intended.
 title: "[Bug Report]"
-labels: issue
+labels: ''
 assignees: Viriatto
 
 ---
