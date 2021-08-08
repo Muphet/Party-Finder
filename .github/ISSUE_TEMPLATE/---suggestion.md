@@ -7,11 +7,14 @@ assignees: Viriatto
 
 ---
 
-##**What would this suggestion improve:**
+***What would this suggestion improve:***
+
 A clear and concise description of what would this suggestion fix or improve.
 
-##**Describe the solution you'd like**
+***Describe the solution you'd like***
+
 A clear and concise description of what you would want the improved version to do.
 
-##**Additional context**
+***Additional context***
+
 Add any other context or screenshots about the suggestion here.

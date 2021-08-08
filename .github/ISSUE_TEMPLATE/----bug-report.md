@@ -7,11 +7,11 @@ assignees: Viriatto
 
 ---
 
-__***Bug Description***__
+***Bug Description***
 
 A clear and concise description of what the bug is.
 
-__***Reproduction***__
+***Reproduction***
 
 Steps to reproduce the behavior:
 > 1. Run the command (...)
