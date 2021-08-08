@@ -2,16 +2,16 @@
 name: " \U0001F41E Bug Report"
 about: Report something that isn't working as intended.
 title: "[Bug Report]"
-labels: ''
+labels: bug report
 assignees: Viriatto
 
 ---
 
-##**Bug Description**
+__***Bug Description***__
 
 A clear and concise description of what the bug is.
 
-##**Reproduction**
+__***Reproduction***__
 
 Steps to reproduce the behavior:
 > 1. Run the command (...)
@@ -19,8 +19,10 @@ Steps to reproduce the behavior:
 > 3. Run the command (...)
 > 4. Bot says (...)
 
-##**Expected Behavior**
+***Expected Behavior***
+
 A clear and concise description of what you expected to happen.
 
-##**Screenshots**
+***Screenshots***
+
 If applicable, add screenshots to help explain your problem.
