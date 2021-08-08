@@ -15,4 +15,4 @@ For now, the [discord server](https://discord.gg/kC67JwCv94) is the main communi
 ## 📖 Useful Resources
 
 - [List of already reported bugs](https://github.com/Viriatto/PartyFinder-BOT/labels/bug%20report)
-- [v0.1.0-alpha Release with core features list](https://github.com/Viriatto/PartyFinder-BOT/discussions/1)
+- [v0.1.0-alpha Release with core features list](https://github.com/Viriatto/PartyFinder-BOT/releases/tag/v0.1.0-alpha)
