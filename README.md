@@ -34,6 +34,6 @@ When you are a Priority Queue subscriber, you can expect your queue times to red
 
 For any donation related questions, you can ask them in the [#payment-support](https://discord.gg/pXdXcCKJcQ) channel in our discord server.
 
-[![Support me on Liberapay](https://img.shields.io/liberapay/patrons/Viriato.PartyFinder.svg?logo=liberapay)](https://pt.liberapay.com/Viriato.PartyFinder/)
+[![Support me on Liberapay](https://img.shields.io/liberapay/patrons/Viriato.PartyFinder.svg?logo=liberapay)](https://pt.liberapay.com/Viriato.PartyFinder/)]
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dpartyfinder%26type%3Dpatrons&style=flat)](https://patreon.com/partyfinder)<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U55NEKB)
