@@ -2,7 +2,7 @@
 
 # 🎉 Party Finder Public Repository
 
-Party Finder helps a player or a premade group of players find others to play with, based on their selected region, roles, elo and gamemode! Can search for players only within the server it is in or in every server the bot is in, and creates text and voice channels for the premade groups and parties, that only their respective members can see and interact with! 
+Party Finder helps a player or a premade group of players find others to play with, based on their selected region, roles, elo, gamemode and fluent languages! Can search for players only within the server it is in or in every server the bot is in, and creates text and voice channels for the premade groups and parties, that only their respective members can see and interact with! 
 
 
 ## 💡 Suggestions and 🐞 Bugs
