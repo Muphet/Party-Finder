@@ -1,4 +1,4 @@
-[![Release v0.1.0](https://img.shields.io/badge/alpha-v.0.1.0-orange)](https://github.com/Viriatto/PartyFinder-BOT/releases/tag/v0.1.0-alpha)
+[![Release v0.1.0](https://img.shields.io/badge/alpha-v.0.1.0-orange)](https://github.com/Viriatto/PartyFinder-BOT/releases/tag/v0.1.0-alpha)<br>[![Twitter](https://img.shields.io/twitter/follow/Viriaato?style=plastic)](https://twitter.com/Viriaato)
 
 # 🎉 Party Finder Public Repository
 
@@ -37,4 +37,4 @@ For any donation related questions, you can ask them in the [#donations-support]
 
 [![Support me on Liberapay](https://img.shields.io/liberapay/patrons/Viriato.PartyFinder.svg?logo=liberapay)](https://pt.liberapay.com/Viriato.PartyFinder/)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dpartyfinder%26type%3Dpatrons&style=flat)](https://patreon.com/partyfinder)<br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U55NEKB)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U55NEKB)<br>
