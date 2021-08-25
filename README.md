@@ -29,7 +29,7 @@ On top of this, there are server hosting costs to cover.
 
 So the solution I came up with was to offer something that isn't detrimental to those who do not want to or cannot afford to donate and at the same time valuable enough to reward and thank those who do.
 
-For every 5$ donated you will get 1 month of Priority Queue and access to donator exclusive support channels and a special Donator tag on our Discord server.
+For every 5$ donated you will get 1 month of Priority Queue, up to 50 group invitations instead of 10, access to donator exclusive support channels and a special Donator tag on our Discord server.
 
 When you are a Priority Queue subscriber, you can expect your queue times to reduce significantly, and every premade group you create also have its queue time reduced.
 
