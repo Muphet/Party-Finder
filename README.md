@@ -1,4 +1,4 @@
-[![Release v0.1.0](https://img.shields.io/badge/alpha-v.0.1.0-orange)](https://github.com/Viriatto/PartyFinder-BOT/releases/tag/v0.1.0-alpha)<br>[![Twitter](https://img.shields.io/twitter/follow/Viriaato?style=plastic)](https://twitter.com/Viriaato)
+[![Release v0.1.1](https://img.shields.io/badge/alpha-v.0.1.1-orange)](https://github.com/Viriatto/PartyFinder-BOT/releases/tag/v0.1.1-alpha)<br>[![Twitter](https://img.shields.io/twitter/follow/Viriaato?style=plastic)](https://twitter.com/Viriaato)
 
 # 🎉 Party Finder Public Repository
 
