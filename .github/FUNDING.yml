@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: Viriato.PartyFinder
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['https://tinyurl.com/partyfinderpaypal','https://donatebot.io/checkout/851099370384130099']
+custom: ['https://paypal.me/botpartyfinder', 'https://tinyurl.com/partyfinderpaypal','https://donatebot.io/checkout/851099370384130099']
