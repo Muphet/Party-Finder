@@ -1,6 +1,6 @@
 [![Party Finder Hub](https://img.shields.io/discord/851099370384130099?color=blue&label=Party%20Finder%20Hub)](https://discord.gg/kC67JwCv94)
 [![Discord Invite](https://img.shields.io/badge/Bot-Invite-blue?logo=discord)](https://discord.com/oauth2/authorize?client_id=851055179453300736&permissions=268446737&scope=applications.commands%20bot)
-[![Release v0.1.4](https://img.shields.io/badge/beta-v.0.1.3-blue)](https://github.com/Viriatto/PartyFinder-BOT/releases/tag/v0.1.4-beta)<br>
+[![Release v0.1.4](https://img.shields.io/badge/beta-v.0.1.4-blue)](https://github.com/Viriatto/PartyFinder-BOT/releases/tag/v0.1.4-beta)<br>
 [![Twitter](https://img.shields.io/twitter/follow/Viriaato?style=plastic)](https://twitter.com/Viriaato)<br>
 
 # 🎉 Party Finder Public Repository
