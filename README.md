@@ -26,7 +26,7 @@ For now, the [discord server](https://discord.gg/kC67JwCv94) is the main communi
 
 ## 🙏 Contributing
 
-I am currently in college and *Party Finder* is a side project with which - in all honesty - I hope to make some money. **I do not and will never however make Party Finder gated behind a paywall and its core features will always be available to everyone.**
+**I do not and will never however make Party Finder gated behind a paywall and its core features will always be available to everyone.**
 
 On top of this, there are server hosting costs to cover.
 
